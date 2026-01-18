@@ -2,6 +2,19 @@
 #
 .DS_Store
 
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Web build output
+dist/
+build/
+
+# Vercel
+.vercel
+
 # Xcode
 #
 build/
